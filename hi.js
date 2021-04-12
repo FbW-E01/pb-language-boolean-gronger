@@ -36,4 +36,4 @@ console.log(strawberry);
 // console.log(name);
 // ```
 
-// Stacey will be printed !!!!!!!!!!!!!!!!
+// Stacey will be printed !!!!!!!!!!!!!!!! firstName AKA Stacey has been assigned properly so JavaScript won't go any further with checking options and will simply print it. It is order based, basically.
